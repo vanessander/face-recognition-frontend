@@ -31,5 +31,6 @@
   },
   "devDependencies": {
     "particlesjs": "^2.2.3"
-  }
+  },
+  "homepage": "https://vanessander.github.io/smart-brain"
 }
